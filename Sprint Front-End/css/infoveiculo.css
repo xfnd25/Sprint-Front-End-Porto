@@ -121,3 +121,28 @@
    }
    
    input:focus { background-color: #f0f0f0; }
+
+   .galeria {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.foto {
+    margin: 10px;
+    width: calc(33.33% - 20px);
+    overflow: hidden;
+  }
+
+.foto img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.5s;
+  }
+
+.foto:hover img {
+    transform: scale(1.1);
+  }
