@@ -49,7 +49,23 @@
     border-radius: 6px;
     border: none; 
     margin-top: 30px;
-    
+   
+}
+
+
+.btn2 {
+       
+  width:100%;
+  padding: 0.6em 1em;
+  cursor: pointer;
+  background: linear-gradient(90deg, #ff0000 0%, #92eefe 100%);
+  text-decoration: none;
+  font-size:1.1em; 
+  color: #fff;
+  border-radius: 6px;
+  border: none; 
+  margin-top: 30px;
+  
 }
 
    .zoom-shadow {
