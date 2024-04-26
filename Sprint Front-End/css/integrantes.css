@@ -34,3 +34,8 @@ body {
 .foto:hover img {
     transform: scale(1.1);
   }
+
+p{
+  font-size: x-large;
+  font-family:'Courier New', Courier, monospace;
+}
