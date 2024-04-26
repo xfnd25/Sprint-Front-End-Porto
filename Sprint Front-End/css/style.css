@@ -154,3 +154,10 @@
 .foto:hover img {
     transform: scale(1.1);
   }
+
+.config {
+  width: 150px;
+  padding-top: 35px;
+  margin-left: 67px;
+}
+
